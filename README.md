@@ -19,7 +19,7 @@
 "server": "json-server -p 3001 --watch db.json",
 }
 npm run server`
-- VS Code Extension : rest client
+- VS Code Extension : rest client (ใช้ VS Code ทดสอบ Rest )
 - Axios
 
 #### Result: https://react-stephen-formv2.netlify.app/
